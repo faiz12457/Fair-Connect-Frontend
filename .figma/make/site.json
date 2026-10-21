@@ -1,0 +1,10 @@
+{
+  "description": "Connects students, recruiters, and university admins for efficient career fair management and smart talent matching through AI-driven profiles and QR interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
